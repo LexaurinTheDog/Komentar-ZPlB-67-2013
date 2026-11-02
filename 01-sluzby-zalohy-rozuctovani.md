@@ -108,6 +108,11 @@ Všechna ujednání podle zákona (výše záloh, rozsah služeb, způsob rozú�
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 3535/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/62259C05E34B72CDC1258AEC00529848?openDocument) — 20. 2. 2024, kat. A
+  > „Společenství vlastníků je oprávněno rozhodnout, zda a jaké služby bude zajišťovat vlastníkům jednotek (a k zajištění dodávek těchto služeb je oprávněno sjednávat smlouvy) je rovněž oprávněno rozhodnout, že neplatí-li vlastník jednotky úhradu za poskytované služby řádně, nebude mu služby (některé z nich) zajišťovat. Jde o rozhodnutí která náleží do působnosti shromáždění (§ 1208 písm. d/ o. z.). Ustanovení § 1186 odst. 2 a 3 o. z. o přechodu dluhů vlastníka jednotky vůči osobě odpovědné za správu domu na příspěvcích na správu domu a pozemku a službách, včetně záloh, na nového nabyvatele se uplatní i při přechodu vlastnictví ve veřejné dražbě dobrovolné podle zákona č. 26/2000 Sb. (ve znění pozdějších předpisů)"
+
 #### Poskytovatel a příjemce služeb (odst. 1 písm. a), b))
 
 Zákon rozlišuje dvě základní konstelace. **Nájemní:** poskytovatelem je vlastník nemovitosti (domu) nebo vlastník jednotky, který byt pronajímá; příjemcem je nájemce bytu. Sem patří i bytové družstvo jako vlastník domu ve vztahu k nájemcům družstevních bytů — proto zákon v dalších ustanoveních opakovaně počítá s „rozhodnutím družstva". **Spoluvlastnická:** poskytovatelem je společenství vlastníků jednotek, příjemcem vlastník jednotky. Pronajímá-li vlastník jednotky byt, vznikají dva vztahy: SVJ → vlastník jednotky a vlastník jednotky → nájemce; v každém se rozúčtovává a vyúčtovává samostatně. Kde společenství nevzniklo, použijí se pravidla pro společenství přiměřeně (§ 10).
@@ -173,6 +178,11 @@ Zjištěná spotřeba tepla je rozdíl odečtů korigovaný stejnými korekcemi,
 > (2) Rozsah poskytovaných služeb si poskytovatel služeb a příjemce služeb ujednají nebo o něm rozhodne družstvo nebo společenství.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 3535/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/62259C05E34B72CDC1258AEC00529848?openDocument) — 20. 2. 2024, kat. A
+  > „Společenství vlastníků je oprávněno rozhodnout, zda a jaké služby bude zajišťovat vlastníkům jednotek (a k zajištění dodávek těchto služeb je oprávněno sjednávat smlouvy) je rovněž oprávněno rozhodnout, že neplatí-li vlastník jednotky úhradu za poskytované služby řádně, nebude mu služby (některé z nich) zajišťovat. Jde o rozhodnutí která náleží do působnosti shromáždění (§ 1208 písm. d/ o. z.). Ustanovení § 1186 odst. 2 a 3 o. z. o přechodu dluhů vlastníka jednotky vůči osobě odpovědné za správu domu na příspěvcích na správu domu a pozemku a službách, včetně záloh, na nového nabyvatele se uplatní i při přechodu vlastnictví ve veřejné dražbě dobrovolné podle zákona č. 26/2000 Sb. (ve znění pozdějších předpisů)"
 
 #### Demonstrativní výčet služeb (odst. 1)
 
