@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 67/2013 Sb. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva ani místní karty rozhodnutí zatím v repozitáři nejsou; dokument proto nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 67/2013 Sb. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva v repozitáři není a místní judikaturu tvoří jediná karta rozhodnutí (NS 26 Cdo 3535/2022 ve složce `judikatura/`, citovaná u § 2 a § 3); dokument proto nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -90,7 +90,7 @@ Normativní text a výklad upozorňují například na:
 
 **Jak ji řešit.** Pro každý znak normy vytvořte řádek: rozhodná skutečnost, kdo ji tvrdí, dostupný důkaz, kdo důkaz opatřuje, míra přesvědčení a následek neprokázání. Typicky jde o den doručení, existenci písemného ujednání a kvóra, prokazatelnost upozornění k odečtu a počet osob rozhodných pro rozúčtování. Právní argument nenahrazuje skutkové zjištění a zákonnou domněnku nelze dovodit jen z obtížného dokazování.
 
-**Místní opora.** [§ 6 — Rozúčtování nákladů na vytápění](01-sluzby-zalohy-rozuctovani.md); [§ 13 — Pokuta](02-pausal-pokuta-zaverecna.md); [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md); místní judikatura zatím chybí (složka `judikatura/` se doplní strojově)
+**Místní opora.** [§ 6 — Rozúčtování nákladů na vytápění](01-sluzby-zalohy-rozuctovani.md); [§ 13 — Pokuta](02-pausal-pokuta-zaverecna.md); [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md); k dokazování místní judikatura není (jediná místní karta, NS 26 Cdo 3535/2022, je citována jen u § 2 a § 3 a řeší kompetenci, nikoli důkazní otázky)
 
 ## 7. Jaké právní následky, sankce a prostředky ochrany navazují?
 
@@ -127,10 +127,11 @@ Typický střet je mezi spotřebním principem a solidaritou uvnitř zúčtovac�
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Místní složka `judikatura/` zatím neexistuje a obsahuje tedy **0** karet rozhodnutí; v systematickém souboru zásad je odkazováno na **0** různých místních karet s použitelnou citací. Komentář to sám uvádí: „Komentář neuvádí spisové značky soudních rozhodnutí.“
-Místní korpus neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se proto nesmí domýšlet. Složka bude doplněna strojově později; do té doby jde o výslovnou mezeru.
+Místní složka [judikatura/](judikatura/README.md) obsahuje **1** kartu rozhodnutí: [NS 26 Cdo 3535/2022](judikatura/NS-26-Cdo-3535-2022.md) ze dne 20. 2. 2024 (kat. A). Kapitola 1 ji cituje u § 2 a § 3 a u § 3 ji samostatně vyhodnocuje; ostatních 17 paragrafových jednotek (včetně § 9a) místní judikaturu nemá. Úvod to shrnuje slovy „Komentář cituje jediné soudní rozhodnutí z místních zdrojů“.
+Právní věta karty se týká společenství vlastníků: společenství rozhoduje, zda a jaké služby bude vlastníkům jednotek zajišťovat, a může rozhodnout i o tom, že vlastníku, který řádně neplatí úhradu za služby, služby (některé z nich) zajišťovat nebude; jde o rozhodnutí v působnosti shromáždění (§ 1208 písm. d) OZ). Kapitola 1 k tomu uvádí: „S tímto závěrem koresponduje § 9a komentovaného zákona, který pro bytové družstvo i společenství výslovně upravuje rozhodnutí nejvyššího orgánu o neposkytování služeb dlužníkovi v prodlení nejméně 3 měsíce a povinnost obnovit služby po splnění dluhu.“
+Hranici karty tvoří otázka, zda lze o neposkytování služeb rozhodnout i mimo podmínky § 9a. Kapitola 1 ji ponechává otevřenou: „Zda lze o neposkytování služeb rozhodnout i při kratším prodlení (tj. mimo podmínky § 9a), je výkladová otázka; § 9a je třeba vnímat jako výslovné zákonné vymezení podmínek tohoto opatření.“ Druhá část právní věty (přechod dluhů podle § 1186 odst. 2 a 3 OZ při veřejné dražbě dobrovolné) se komentovaného zákona týká jen nepřímo. K ostatním výkladovým otázkám místní korpus citovatelnou judikatorní tezi neposkytuje; judikatorní odpověď se tam nesmí domýšlet.
 
-**Jak ji řešit.** Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění (zejména § 6 a § 13 před a po 1. 1. 2016) a stejný právní problém. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo. Prioritou jsou místně označené výkladové otázky: dosah fikce souhlasu, poměr § 7 a § 2252 OZ, povaha pokuty jako penále, hranice 24 měsíců u paušálu a meze § 9a.
+**Jak ji řešit.** U stávající karty i u každé další oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění (zejména § 6 a § 13 před a po 1. 1. 2016) a stejný právní problém. U karty NS 26 Cdo 3535/2022 zohledněte, že je datována před účinností § 9a (1. 1. 2026) a § 9a tedy nevykládá; závěr o kompetenci shromáždění nepoužívejte k obejití výslovných podmínek § 9a (nejvyšší orgán, adresát člen, prodlení nejméně 3 měsíce, povinná obnova) a na bytové družstvo jej nepřenášejte bez samostatného zdůvodnění, protože právní věta hovoří o společenství vlastníků. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo. Prioritou pro další karty jsou místně označené výkladové otázky: dosah fikce souhlasu, poměr § 7 a § 2252 OZ, povaha pokuty jako penále, hranice 24 měsíců u paušálu a meze § 9a.
 
 **Místní opora.** [místní zásady a citace](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md); [Poznámka k metodě](00-uvod.md)
 
@@ -154,11 +155,12 @@ Každá paragrafová jednotka má oddíl G. Protiargumenty a rizika. Místní ka
 - [§ 8 — dosah fikce souhlasu](01-sluzby-zalohy-rozuctovani.md)
 - [§ 9 — hranice 24 měsíců a paušál ve společenství](02-pausal-pokuta-zaverecna.md)
 - [§ 9a — technická proveditelnost a přiměřenost](02-pausal-pokuta-zaverecna.md)
+- [§ 3 — neposkytování služeb při prodlení kratším než 3 měsíce, tj. mimo podmínky § 9a (k místní kartě NS 26 Cdo 3535/2022)](01-sluzby-zalohy-rozuctovani.md)
 - [§ 13 — penále a moderace](02-pausal-pokuta-zaverecna.md)
 - [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md)
 Například k § 9: „Funkční výklad (zabránit obcházení) svědčí pro sčítání navazujících krátkodobých nájmů téhož bytu týmž nájemcem.“ K § 13: „Pro moderaci svědčí její funkce korektivu nepřiměřenosti. Proti ní stojí to, že zákon výši pokuty pevně určil a sám obsahuje korektiv spravedlnosti v odst. 1.“
 
-**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický a účelový argument, praktický následek a důvod, proč jeden převáží; judikatorní argument zatím v místním korpusu chybí. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
+**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický a účelový argument, praktický následek a důvod, proč jeden převáží; judikatorní argument poskytuje místní korpus jen u neposkytování služeb (NS 26 Cdo 3535/2022), u ostatních otázek chybí. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
 
 **Místní opora.** [kapitola 1](01-sluzby-zalohy-rozuctovani.md); [kapitola 2](02-pausal-pokuta-zaverecna.md); [místní zásady](ZASADY.md); [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md)
 
@@ -176,14 +178,15 @@ Vzorem úplné subsumpce je kazuistika k § 4: „Písemné oznámení doručeno
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **3** kapitoly a **0** karet rozhodnutí, doplněné samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **3** kapitoly a **1** karta rozhodnutí (NS 26 Cdo 3535/2022), doplněné samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura neposkytuje citovatelnou tezi (složka `judikatura/` se doplní strojově);
+- místní judikatura je omezena na jednu kartu citovanou u § 2 a § 3; ostatních 17 paragrafových jednotek místní judikaturu nemá;
+- zda lze o neposkytování služeb rozhodnout i při prodlení kratším než 3 měsíce (mimo podmínky § 9a), zůstává výkladovou otázkou;
 - místní důvodová zpráva není součástí repozitáře;
 - novela vkládající § 8a a § 8b není rozebrána;
 - ústavní rovina § 9a není samostatně zpracována;
 - konsolidace souvisejících předpisů jsou časově omezené (zákon o hospodaření energií do 31. 7. 2026, vyhláška č. 269/2015 Sb. ve znění od 1. 1. 2024).
-Aktualizaci musí spustit zejména nová konsolidace zákona od 1. 1. 2027, změna vyhlášky č. 269/2015 Sb. nebo přílohy č. 12 vyhlášky č. 428/2001 Sb., doplnění místních karet rozhodnutí, rozpor mezi kapitolou a systematickými dokumenty nebo zjištění, že odpověď stojí jen na neoznačeném předpokladu.
+Aktualizaci musí spustit zejména nová konsolidace zákona od 1. 1. 2027, změna vyhlášky č. 269/2015 Sb. nebo přílohy č. 12 vyhlášky č. 428/2001 Sb., doplnění dalších místních karet rozhodnutí, rozpor mezi kapitolou a systematickými dokumenty nebo zjištění, že odpověď stojí jen na neoznačeném předpokladu.
 
 **Jak ji řešit.** Na konci každého výkladu veďte krátký stav poznání: ověřené pravidlo, použitý místní zdroj, otevřená otázka a událost vyžadující revizi. Tvrzení bez dohledatelného místního podkladu buď odstraňte, nebo je označte jako hypotézu; absenci rozhodnutí nikdy neformulujte jako ustálený právní závěr.
 

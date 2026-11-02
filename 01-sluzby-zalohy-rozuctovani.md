@@ -194,6 +194,8 @@ Pozor na terminologii: „dodávka tepla a centralizované poskytování teplé 
 
 Rozsah se ujednává (nájem) nebo o něm rozhoduje družstvo či společenství (příslušný orgán podle stanov). U nájmu bytu, schází-li ujednání, platí, že pronajímatel zajistí nezbytné služby (§ 2247 odst. 1 a 2 OZ). Rozhodnutí SVJ o rozsahu služeb zavazuje vlastníky jednotek, nikoli přímo jejich nájemce — vůči nájemci je rozhodující nájemní smlouva.
 
+**K místní judikaturní kartě NS 26 Cdo 3535/2022:** Rozhodnutí ze dne 20. 2. 2024 (kat. A) potvrzuje, že společenství vlastníků rozhoduje, zda a jaké služby bude vlastníkům jednotek zajišťovat, a že může rozhodnout i o tom, že vlastníku, který řádně neplatí úhradu za služby, služby (některé z nich) zajišťovat nebude; jde o rozhodnutí v působnosti shromáždění (§ 1208 písm. d) občanského zákoníku). S tímto závěrem koresponduje § 9a komentovaného zákona, který pro bytové družstvo i společenství výslovně upravuje rozhodnutí nejvyššího orgánu o neposkytování služeb dlužníkovi v prodlení nejméně 3 měsíce a povinnost obnovit služby po splnění dluhu. Zda lze o neposkytování služeb rozhodnout i při kratším prodlení (tj. mimo podmínky § 9a), je **výkladová otázka**; § 9a je třeba vnímat jako výslovné zákonné vymezení podmínek tohoto opatření. Druhá část právní věty (přechod dluhů podle § 1186 občanského zákoníku při veřejné dražbě dobrovolné) se komentovaného zákona týká jen nepřímo.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** SVJ rozhodne o zavedení služby „správa kamerového systému" a náklady na ni rozúčtovává jako službu podle počtu osob. Jeden vlastník namítá, že jde o náklad správy domu.

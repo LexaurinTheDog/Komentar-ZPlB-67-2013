@@ -9,11 +9,11 @@
 Každá z třinácti vrstev odděluje místní zjištění, autorský test a dohledatelnou místní oporu. Tvrzení se při dalším psaní označuje podle své epistemické povahy:
 
 - **Text:** závěr přímo vyplývající z místního znění předpisu (citační bloky v kapitolách).
-- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže; v tomto repozitáři zatím žádná taková opora není.
+- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže; v tomto repozitáři jde jen o kartu [NS 26 Cdo 3535/2022](judikatura/NS-26-Cdo-3535-2022.md), citovanou u § 2 a § 3.
 - **Syntéza:** autorské propojení textu, systematiky, vazeb na občanský zákoník a zákon o obchodních korporacích a místních výkladových pasáží.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení; kapitoly ji označují jako „výkladovou otázku“.
 
-Místní korpus pro tuto mapu tvoří **3 kapitoly** (úvod a dvě paragrafové kapitoly), **19 samostatně nadepsaných paragrafových jednotek** (§ 1 až § 8, § 8a, § 8b, § 9, § 9a, § 10 až § 14, § 14a, § 15), **43 modalitních příkladů**, **8 právních zásad** a **0 místních karet rozhodnutí**. Rejstřík ustanovení je v [INDEX.md](INDEX.md).
+Místní korpus pro tuto mapu tvoří **3 kapitoly** (úvod a dvě paragrafové kapitoly), **19 samostatně nadepsaných paragrafových jednotek** (§ 1 až § 8, § 8a, § 8b, § 9, § 9a, § 10 až § 14, § 14a, § 15), **43 modalitních příkladů**, **8 právních zásad** a **1 místní karta rozhodnutí** (NS 26 Cdo 3535/2022, citovaná u 2 z 19 jednotek: § 2 a § 3). Rejstřík ustanovení je v [INDEX.md](INDEX.md).
 
 ## 1. Znění, novelizace a časová působnost
 
@@ -297,25 +297,32 @@ Typologie následků (Syntéza): **neúčinnost** (neodůvodněné zvýšení z�
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Repozitář zatím neobsahuje složku `judikatura/` ani žádnou místní kartu rozhodnutí (**0 karet**); soubor zásad odkazuje na **0 místních karet s použitelnou citací** a kapitoly obsahují **0 rozpoznaných citací spisových značek**. Složka `judikatura/` se doplní strojově později; do té doby jde o výslovnou mezeru, nikoli o zjištění, že rozhodovací praxe neexistuje.
+Složka [judikatura/](judikatura/README.md) obsahuje **1 kartu**: [NS 26 Cdo 3535/2022](judikatura/NS-26-Cdo-3535-2022.md) ze dne 20. 2. 2024 (kat. A). Kapitola 1 ji cituje v bloku „Judikatura (z místních zdrojů)“ u § 2 a § 3 a u § 3 ji vyhodnocuje v samostatném odstavci; ostatních 17 paragrafových jednotek (včetně § 9a) místní judikaturu nemá. Soubor zásad na kartu odkazuje jen u přiměřenosti donucení (§ 9a). Mimo § 2 a § 3 jde nadále o výslovnou mezeru, nikoli o zjištění, že rozhodnutí k dalším otázkám neexistují.
 Komentář tuto metodu sám deklaruje:
-- [Úvod — metodická poznámka](00-uvod.md): „Komentář neobsahuje citace konkrétních soudních rozhodnutí“
-- [Úvod — poznámka k metodě](00-uvod.md): „Komentář neuvádí spisové značky soudních rozhodnutí.“
+- [Úvod — metodická poznámka](00-uvod.md): „Komentář cituje jediné soudní rozhodnutí z místních zdrojů“
+- [Úvod — poznámka k metodě](00-uvod.md): „Judikatura se uvádí jen z místních zdrojů.“
 - [Úvod — poznámka k metodě](00-uvod.md): „Sporné body jsou výslovně označeny jako výkladové otázky a u každé je naznačeno, které argumenty svědčí pro které řešení.“
-Místní korpus neposkytuje rozpoznanou kartu ani citaci rozhodnutí; judikatorní závěr se proto nesmí domýšlet.
 
-Prioritní body pro budoucí doplnění karet (Syntéza z místně označených výkladových otázek):
+Obsah karty a jeho vyhodnocení (Judikatura + Otevřená otázka):
+- Právní věta řeší kompetenci **společenství vlastníků**: rozhoduje, zda a jaké služby bude vlastníkům jednotek zajišťovat, a může rozhodnout i o tom, že vlastníku, který řádně neplatí úhradu za služby, služby (některé z nich) zajišťovat nebude; jde o rozhodnutí v působnosti shromáždění (§ 1208 písm. d) OZ). Druhá část právní věty (přechod dluhů podle § 1186 odst. 2 a 3 OZ při veřejné dražbě dobrovolné) se komentovaného zákona týká jen nepřímo.
+- Vztah k § 9a kapitola 1 formuluje takto: „S tímto závěrem koresponduje § 9a komentovaného zákona, který pro bytové družstvo i společenství výslovně upravuje rozhodnutí nejvyššího orgánu o neposkytování služeb dlužníkovi v prodlení nejméně 3 měsíce a povinnost obnovit služby po splnění dluhu.“
+- Otevřenou otázku tamtéž výslovně označuje: „Zda lze o neposkytování služeb rozhodnout i při kratším prodlení (tj. mimo podmínky § 9a), je výkladová otázka; § 9a je třeba vnímat jako výslovné zákonné vymezení podmínek tohoto opatření.“
+- Hranice použitelnosti: rozhodnutí je datováno 20. 2. 2024, tedy před účinností § 9a (1. 1. 2026), takže samo § 9a nevykládá; jeho závěr o kompetenci shromáždění je proto třeba číst spolu s výslovnými podmínkami § 9a (nejvyšší orgán, člen, prodlení nejméně 3 měsíce, povinná obnova), nikoli jako argument pro jejich obejití.
+
+Mimo § 2 a § 3 místní korpus kartu ani citaci rozhodnutí neposkytuje; judikatorní závěr se tam nesmí domýšlet.
+
+Prioritní body pro doplnění dalších karet (Syntéza z místně označených výkladových otázek):
 1. dosah fikce souhlasu podle § 8 odst. 2 vůči kogentním pravidlům a bezdůvodnému obohacení;
 2. poměr lhůt § 7 a § 2252 OZ;
 3. povaha pokuty podle § 13 jako penále a moderace podle § 2051 OZ;
 4. sčítání navazujících nájmů pro hranici 24 měsíců podle § 9 odst. 4;
-5. meze § 9a (technická proveditelnost, dobré mravy, započtení prodlení před 1. 1. 2026);
+5. meze § 9a (technická proveditelnost, dobré mravy, započtení prodlení před 1. 1. 2026, neposkytování služeb při prodlení kratším než 3 měsíce ve vztahu ke kartě NS 26 Cdo 3535/2022);
 6. následek vady písemné formy ujednání podle § 1 odst. 4;
 7. hranice služby a správy domu (§ 2 odst. 1 písm. d), § 3);
 8. výpočet dvoutřetinové většiny nájemců (§ 5 odst. 1, § 13 odst. 2).
 
 **Hloubkový test.**
-- U každého budoucího rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
+- U stávající karty i u každého dalšího rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
 - Ověřte, zda soud vykládal stejné znění (zejména před a po 1. 1. 2016 u § 6 a § 13) a stejný právní problém.
 - Nevytvářejte obecnou právní větu z úvahy závislé na zvláštních skutkových okolnostech (např. konkrétní technické řešení rozvodů u § 9a).
 - Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability.
@@ -325,7 +332,7 @@ Prioritní body pro budoucí doplnění karet (Syntéza z místně označených 
 ## 10. Konkurenční výklady, protiargumenty a hraniční případy
 
 **Zjištění z místního komentáře.**
-Každá z 19 paragrafových jednotek obsahuje oddíl **G. Protiargumenty a rizika** a kapitoly na více než třiceti místech výslovně pracují s pojmem výkladové otázky. Konkurenční interpretace jsou tedy místně zachyceny; chybí jim však judikatorní argument.
+Každá z 19 paragrafových jednotek obsahuje oddíl **G. Protiargumenty a rizika** a kapitoly na více než třiceti místech výslovně pracují s pojmem výkladové otázky. Konkurenční interpretace jsou tedy místně zachyceny; judikatorní argument má místní korpus jen ke kompetenci rozhodnout o (ne)poskytování služeb (karta NS 26 Cdo 3535/2022 u § 2 a § 3), ostatním sporným bodům chybí.
 Reprezentativní místní formulace sporných bodů:
 - [§ 4 — výklad](01-sluzby-zalohy-rozuctovani.md): „Zda poskytovatel může jednostranně měnit zálohy i tehdy, byly-li ujednány smluvně (odst. 1), je výkladovou otázkou“
 - [§ 5 — protiargumenty](01-sluzby-zalohy-rozuctovani.md): „zda se dvoutřetinová většina počítá z nájemců (osob), nebo z nájemních vztahů (bytů) — u společného nájmu více osob nejednoznačné“
@@ -352,10 +359,11 @@ Katalog konkurenčních výkladů (Syntéza; stav = míra jistoty podle místní
 | pokuta § 13 jako penále | moderace podle § 2051 OZ | pevná zákonná výše s vlastním korektivem | otevřená |
 | pokuta u povinností bez lhůty (§ 8a, § 9 odst. 3, § 9a) | text § 13 tomu nebrání | prodlení nelze bez lhůty počítat | otevřená |
 | meze § 9a | odepřít lze kteroukoli oddělitelnou službu | omezení přiměřeností a dobrými mravy | otevřená; doporučena výzva a individuální posouzení |
+| neposkytování služeb při prodlení kratším než 3 měsíce (§ 3, § 9a) | obecná kompetence shromáždění rozhodnout o službách (srov. NS 26 Cdo 3535/2022, vydané před účinností § 9a) | § 9a výslovně vymezuje podmínky opatření, kratší prodlení nestačí | výkladová otázka; kapitola 1 vnímá § 9a jako výslovné zákonné vymezení podmínek |
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu.
-- U každé varianty uveďte textový, systematický, historický a účelový argument; judikatorní argument v místním korpusu zatím chybí.
+- U každé varianty uveďte textový, systematický, historický a účelový argument; judikatorní argument poskytuje místní korpus jen u neposkytování služeb (NS 26 Cdo 3535/2022), jinde chybí.
 - Porovnejte praktické následky variant (kdo nese riziko, jaká je bezpečná praxe) a vysvětlete, který argument převáží a za jakých předpokladů.
 - Není-li spor místními prameny řešitelný, zachovejte varianty a označte nejistotu místo předstírání ustáleného závěru.
 
@@ -427,7 +435,7 @@ Integrovaný modelový případ celého cyklu (Syntéza z kazuistik k § 5, § 7
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **3 kapitolami**. Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- místní judikatura zatím neexistuje; složka `judikatura/` se doplní strojově později a soubor zásad proto neposkytuje odkaz na místní kartu s citovatelnou tezí;
+- místní judikatura je omezena na jednu kartu (NS 26 Cdo 3535/2022, citovaná u § 2 a § 3); ostatních 17 paragrafových jednotek místní judikaturu nemá a vztah karty k podmínkám § 9a (prodlení kratší než 3 měsíce) je otevřenou výkladovou otázkou;
 - místní důvodová zpráva k zákonu ani k novelám není součástí repozitáře, historický argument je proto omezen na údaje o novelách v kapitolách;
 - novela, kterou byly vloženy § 8a a § 8b, není v místním korpusu rozebrána;
 - místní konsolidace zákona o hospodaření energií je účinná jen do 31. 7. 2026 a konsolidace vyhlášky č. 269/2015 Sb. je ve znění od 1. 1. 2024;
@@ -447,17 +455,17 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Komentář k zákonu č. 67/2013 Sb. — úvod](00-uvod.md) | ano | nenalezeno | ano | nenalezeno | ano | ano | nenalezeno | ano |
-| [Kapitola 1 (§ 1–8b)](01-sluzby-zalohy-rozuctovani.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
+| [Komentář k zákonu č. 67/2013 Sb. — úvod](00-uvod.md) | ano | nenalezeno | ano | ano | ano | ano | nenalezeno | ano |
+| [Kapitola 1 (§ 1–8b)](01-sluzby-zalohy-rozuctovani.md) | ano | ano | ano | ano | ano | ano | ano | ano |
 | [Kapitola 2 (§ 9–15)](02-pausal-pokuta-zaverecna.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** textový signál nebyl nalezen ve 3 ze 3 kapitol; komentář absenci výslovně deklaruje a karty se doplní strojově.
+- **Judikatura:** textový signál je v úvodu (poznámka k metodě) a v kapitole 1 (karta NS 26 Cdo 3535/2022 u § 2 a § 3); v [kapitole 2](02-pausal-pokuta-zaverecna.md) nebyl nalezen — § 9a se karta týká jen prostřednictvím vyhodnocení u § 3.
 - **Důkazy:** textový signál nebyl nalezen v 1 ze 3 kapitol: [úvod](00-uvod.md) (důkazní vrstva je soustředěna v paragrafových kapitolách).
 - **Aplikace:** úvod neobsahuje modelový případ; aplikační vrstva je v kapitolách 1 a 2.
 
-Aktualizační spouštěče specifické pro tento předpis: nová konsolidace zákona od 1. 1. 2027 (komentované znění je účinné do 31. 12. 2026); změna vyhlášky č. 269/2015 Sb. nebo přílohy č. 12 vyhlášky č. 428/2001 Sb.; změna zákona o hospodaření energií po 31. 7. 2026; změna unijní úpravy energetické účinnosti; doplnění složky `judikatura/`.
+Aktualizační spouštěče specifické pro tento předpis: nová konsolidace zákona od 1. 1. 2027 (komentované znění je účinné do 31. 12. 2026); změna vyhlášky č. 269/2015 Sb. nebo přílohy č. 12 vyhlášky č. 428/2001 Sb.; změna zákona o hospodaření energií po 31. 7. 2026; změna unijní úpravy energetické účinnosti; doplnění dalších karet do složky `judikatura/`.
 
 **Hloubkový test.**
 - Na konci výkladu evidujte ověřené pravidlo, použitý místní zdroj, míru jistoty, otevřenou otázku a datum kontroly.
@@ -479,7 +487,7 @@ Aktualizační spouštěče specifické pro tento předpis: nová konsolidace z�
 | Proces | příslušnost, sled kroků, forma, lhůta, přezkum | seznam paragrafů bez časové osy |
 | Důkazy | znak, skutečnost, důkaz, břemeno, nejistota | nahrazení skutku právním názorem |
 | Následky | primární norma, porušení, následek, ochrana | směšování neúčinnosti, pokuty a úroku z prodlení |
-| Judikatura | ratio, kontext, dosah, vývoj linie; zatím mezera | izolovaná právní věta bez skutků |
+| Judikatura | ratio, kontext, dosah, vývoj linie; mimo § 2 a § 3 zatím mezera | izolovaná právní věta bez skutků |
 | Sporné výklady | nejsilnější varianty a důvod preference | potlačení rozumného protiargumentu |
 | Vazby | specialita, subsidiarita, přednost, ústavní limit | pouhý seznam souvisejících předpisů |
 | Aplikace | skutky, pravidlo, důkazy, subsumpce, výsledek | příklad bez výslovného naplnění znaků |

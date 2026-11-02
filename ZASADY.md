@@ -4,7 +4,7 @@
 
 ## Metoda
 
-Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona a výklad citované v kapitolách [01-sluzby-zalohy-rozuctovani.md](01-sluzby-zalohy-rozuctovani.md) a [02-pausal-pokuta-zaverecna.md](02-pausal-pokuta-zaverecna.md) a úvod v [00-uvod.md](00-uvod.md). Každá zásada je doložena doslovnou citací buď ze znění zákona (citační blok příslušného paragrafu), nebo z výkladu k němu; u každé citace je uveden soubor a paragraf. Repozitář **neobsahuje místní judikaturu** k tomuto zákonu a komentář nepracuje se spisovými značkami soudních rozhodnutí. Zásady níže jsou proto dovozeny z textu zákona, jeho systematiky, vazeb na občanský zákoník a z účelu jednotlivých pravidel — nikoli z judikatorních tezí. Tam, kde by u jiného předpisu stála judikatorní citace, je poctivé uvést, že opora v místních pramenech chybí a bude ji třeba doplnit.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — znění zákona a výklad citované v kapitolách [01-sluzby-zalohy-rozuctovani.md](01-sluzby-zalohy-rozuctovani.md) a [02-pausal-pokuta-zaverecna.md](02-pausal-pokuta-zaverecna.md) a úvod v [00-uvod.md](00-uvod.md). Každá zásada je doložena doslovnou citací buď ze znění zákona (citační blok příslušného paragrafu), nebo z výkladu k němu; u každé citace je uveden soubor a paragraf. Místní judikaturu k tomuto zákonu tvoří **jediná karta** ve složce [judikatura/](judikatura/README.md) — NS 26 Cdo 3535/2022 ze dne 20. 2. 2024 (kat. A), citovaná v kapitole 1 u § 2 a § 3; ostatní ustanovení místní judikaturu nemají. Zásady níže jsou dovozeny z textu zákona, jeho systematiky, vazeb na občanský zákoník a z účelu jednotlivých pravidel — nikoli z judikatorních tezí; na kartu se odkazuje jen tam, kde ji kapitola 1 výslovně vyhodnocuje (u zásady přiměřenosti donucení ve vztahu k § 9a). U ostatních zásad opora v místní judikatuře chybí a je ji třeba doplnit.
 
 Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení.
 
@@ -220,6 +220,10 @@ Přiměřenost donucení se projevuje i u nového nástroje § 9a. Bytové druž
 Meze tohoto nástroje výklad formuluje opatrně ([02-pausal-pokuta-zaverecna.md](02-pausal-pokuta-zaverecna.md), § 9a):
 
 > „Rozhodnutí, které nelze provést bez zásahu do práv jiných uživatelů domu, je výkladově problematické.“
+
+K místní kartě NS 26 Cdo 3535/2022, podle níž může společenství rozhodnout, že vlastníku, který řádně neplatí úhradu za služby, služby (některé z nich) zajišťovat nebude, kapitola 1 opatrně dodává ([01-sluzby-zalohy-rozuctovani.md](01-sluzby-zalohy-rozuctovani.md), § 3):
+
+> „Zda lze o neposkytování služeb rozhodnout i při kratším prodlení (tj. mimo podmínky § 9a), je výkladová otázka; § 9a je třeba vnímat jako výslovné zákonné vymezení podmínek tohoto opatření.“
 
 Praktickým důsledkem zásady je, že sankce podle zákona nejsou jednostranným nástrojem silnější strany: pokuta stíhá stejně neoznámení změny počtu osob jako opožděné vyúčtování, liberační důvody chrání stranu, která nemohla včas plnit kvůli druhé straně, a odepření služeb je vázáno na kvalifikované prodlení a povinnou okamžitou obnovu.
 

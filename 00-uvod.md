@@ -2,7 +2,7 @@
 
 > **Znění účinné od 1. ledna 2026** (dokument e-Sbírky `SB-2013-00067_2026-01-01`). Komentář je zpracován **výhradně z lokálních materiálů** (místní kopie e-Sbírky a ve vaultu uložená konsolidovaná znění souvisejících předpisů); nevyužívá živé komerční právní databáze.
 >
-> **Metodická poznámka:** Zákon č. 67/2013 Sb. (dále „**zákon o službách**“, „**ZPlB**“ nebo „**zákon**“) je krátký, ale prakticky mimořádně frekventovaný předpis, který denně aplikují pronajímatelé, bytová družstva, společenství vlastníků jednotek, správcovské a rozúčtovací firmy. Komentář vychází z konsolidace účinné od 1. 1. 2026, do níž je promítnuto vložení § 9a zákonem č. 176/2025 Sb.; pozdější změny je třeba ověřit samostatně. Komentář **neobsahuje citace konkrétních soudních rozhodnutí** — tam, kde je výklad sporný nebo kde zákon odpověď nedává, to poctivě označuje jako výkladovou otázku a opírá se o text zákona, jeho systematiku, vazby na občanský zákoník a smysl jednotlivých pravidel.
+> **Metodická poznámka:** Zákon č. 67/2013 Sb. (dále „**zákon o službách**“, „**ZPlB**“ nebo „**zákon**“) je krátký, ale prakticky mimořádně frekventovaný předpis, který denně aplikují pronajímatelé, bytová družstva, společenství vlastníků jednotek, správcovské a rozúčtovací firmy. Komentář vychází z konsolidace účinné od 1. 1. 2026, do níž je promítnuto vložení § 9a zákonem č. 176/2025 Sb.; pozdější změny je třeba ověřit samostatně. Komentář **cituje jediné soudní rozhodnutí z místních zdrojů** — rozhodnutí Nejvyššího soudu sp. zn. 26 Cdo 3535/2022 ze dne 20. 2. 2024 (karta ve složce [judikatura/](judikatura/NS-26-Cdo-3535-2022.md), citovaná u § 2 a § 3); ostatní ustanovení místní judikaturu nemají. Tam, kde je výklad sporný nebo kde zákon odpověď nedává, komentář to poctivě označuje jako výkladovou otázku a opírá se o text zákona, jeho systematiku, vazby na občanský zákoník a smysl jednotlivých pravidel.
 
 ---
 
@@ -78,7 +78,7 @@ Průřezové přehledy: [ZASADY.md](ZASADY.md) (právní zásady doložené cita
 
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** (bez elips), pod ním oddíl `**Výklad:**` členěný podle odstavců a dále oddíly F. Kazuistika, G. Protiargumenty a rizika, H. Praktický závěr s kontrolním checklistem a přehledem typicky rozhodných důkazů.
 - Odkazy na související předpisy (občanský zákoník, zákon o obchodních korporacích, zákon o hospodaření energií, vyhlášky č. 269/2015 Sb. a č. 428/2001 Sb.) vycházejí z místních konsolidací; u nich je v kapitolách uvedeno, k jakému datu byla znění ověřena.
-- Komentář neuvádí spisové značky soudních rozhodnutí. Sporné body jsou výslovně označeny jako **výkladové otázky** a u každé je naznačeno, které argumenty svědčí pro které řešení.
+- Judikatura se uvádí jen z místních zdrojů. Složka [judikatura/](judikatura/README.md) obsahuje jednu kartu — NS 26 Cdo 3535/2022 ze dne 20. 2. 2024 (kat. A) —, citovanou v kapitole 1 u § 2 a § 3 a u § 3 vyhodnocenou i ve vztahu k § 9a; ostatních 17 ustanovení místní judikaturu nemá. Sporné body jsou výslovně označeny jako **výkladové otázky** a u každé je naznačeno, které argumenty svědčí pro které řešení.
 
 ---
 
